@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karanvr.github.io/ofbusiness/static/css/main.d9ef5eac.css",
+    "main.js": "/karanvr.github.io/ofbusiness/static/js/main.8623535a.js",
+    "static/js/787.058578af.chunk.js": "/karanvr.github.io/ofbusiness/static/js/787.058578af.chunk.js",
+    "index.html": "/karanvr.github.io/ofbusiness/index.html",
+    "main.d9ef5eac.css.map": "/karanvr.github.io/ofbusiness/static/css/main.d9ef5eac.css.map",
+    "main.8623535a.js.map": "/karanvr.github.io/ofbusiness/static/js/main.8623535a.js.map",
+    "787.058578af.chunk.js.map": "/karanvr.github.io/ofbusiness/static/js/787.058578af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ef5eac.css",
+    "static/js/main.8623535a.js"
+  ]
+}
